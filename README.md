@@ -1,4 +1,2 @@
 ov
-==
-
-let it go,let it go.I have a dream.1
+阿达，后来不感学趣，去用go写了一下后来又放弃。
